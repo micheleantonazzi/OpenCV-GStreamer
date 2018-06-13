@@ -1,5 +1,5 @@
 # OpenCV-GStreamer
-OpenCV-3.4.1 and GStreamer-1.0 compiled for windows.
+OpenCV and GStreamer compiled for Windows and ready to use in Visual Studio.
 
 In this repository you can find OpenCV and GStreamer compiled together.
 
