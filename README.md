@@ -10,7 +10,7 @@ In this repository you can find OpenCV and GStreamer compiled together.
 * [Visual Studio 2017](https://www.visualstudio.com/it/downloads/?rr=https%3A%2F%2Fwww.google.it%2F)
 * [Git](https://git-scm.com/downloads)
 * [CMake](https://cmake.org/download/)
-* [GStreamer binary files](https://gstreamer.freedesktop.org/data/pkg/windows/)
+* [GStreamer 1.14.0.1 binary files](https://gstreamer.freedesktop.org/data/pkg/windows/)
 * [OpenCV sources files](https://github.com/opencv/opencv)
 
 ## Instructions
