@@ -23,7 +23,7 @@ In this repository you can find OpenCV and GStreamer compiled together.
 
 * Install GStreamer and, during the installation, select checkbox *complete*.
 
-* Insert new System Variable pointing to GStreamer installation folder: `GSTREAMER_DIR -> C:\gstreamer\1.0\x86_64`
+* Insert new System Variable pointing to GStreamer installation folder: `GSTREAMER_1_0_ROOT_X86_64 -> C:\gstreamer\1.0\x86_64`
 
 * Insert in the System Variable *PATH* the folder that contains the GStreamer binary files, in my case `C:\gstreamer\1.0\x86_64\bin`
 
